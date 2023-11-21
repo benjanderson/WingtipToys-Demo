@@ -7,3 +7,4 @@ CSharp/_ReSharper.Caches/
 .vs/
 *.suo
 *.user
+/CSharp/WingtipToysCore/App_Data/ErrorLog.txt
